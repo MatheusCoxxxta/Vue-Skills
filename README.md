@@ -9,7 +9,7 @@
 </p>
 
 <h3 align="center">Vue Skills</h3>
----
+
 
 <p align="center"> Projeto no estilo TO DO LIST, mas adicionando e listando Skills. Desenvolvido em VueJS.
     <br> 
