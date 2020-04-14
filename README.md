@@ -1,3 +1,26 @@
+<p align="center">
+  <a href="" rel="noopener">
+ <img width=200px height=200px src="../vue-skills/src/assets/logo.png" alt="Project logo"></a>
+</p>
+
+<h3 align="center">Vue Skills</h3>
+
+<img width=582px height=302 src="../vue-skills/src/assets/vue.png" alt="Project Screenshot"></a>
+
+---
+
+<p align="center"> Projeto no estilo TO DO LIST, mas adicionando e listando Skills. Desenvolvido em VueJS.
+    <br> 
+</p>
+
+## 📝 Table of Contents
+
+- [Getting Started](#getting_started)
+- [Built Using](#built_using)
+- [Authors](#authors)
+
+## 🏁 Getting Started <a name = "getting_started"></a>
+
 # vue-skills
 
 ## Project setup
@@ -20,5 +43,11 @@ yarn build
 yarn lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## ⛏️ Built Using <a name = "built_using"></a>
+
+- [VueJs](https://vuejs.org/) - Web Framework
+
+## ✍️ Authors <a name = "authors"></a>
+
+- [@Matheus](https://github.com/MatheusCoxxxta) - Development (Clone)
+
