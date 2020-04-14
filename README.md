@@ -1,11 +1,11 @@
 <p align="center">
-  <a href="" rel="noopener">
- <img width=200px height=200px src="https://raw.githubusercontent.com/MatheusCoxxxta/Vue-Skills/master/src/assets/logo.png" alt="Project logo"></a>
+
+ <img width=200px height=200px src="https://raw.githubusercontent.com/MatheusCoxxxta/Vue-Skills/master/src/assets/logo.png" alt="Project logo">
 </p>
 
 
 <p align="center">
-  <img width=582px height=302 src="https://raw.githubusercontent.com/MatheusCoxxxta/Vue-Skills/master/src/assets/vue.png"   alt="Project Screenshot"></a>
+  <img width=582px height=302 src="https://raw.githubusercontent.com/MatheusCoxxxta/Vue-Skills/master/src/assets/vue.png"   alt="Project Screenshot">
 </p>
 
 <h3 align="center">Vue Skills</h3>
