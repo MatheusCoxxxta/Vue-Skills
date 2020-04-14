@@ -5,9 +5,6 @@
 
 
 
-<p align="center">
-  <img width=582px height=302 src="https://raw.githubusercontent.com/MatheusCoxxxta/Vue-Skills/master/src/assets/vue.png"   alt="Project Screenshot"></a>
-</p>
 <h3 align="center">Vue Skills</h3>
 ---
 
