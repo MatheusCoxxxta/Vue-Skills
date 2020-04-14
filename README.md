@@ -5,7 +5,7 @@
 
 <h3 align="center">Vue Skills</h3>
 
-<img width=582px height=302 src="https://raw.githubusercontent.com/MatheusCoxxxta/Vue-Skills/master/src/assets/vue.png" alt="Project Screenshot"></a>
+<img style="justify-content: center" width=582px height=302 src="https://raw.githubusercontent.com/MatheusCoxxxta/Vue-Skills/master/src/assets/vue.png" alt="Project Screenshot"></a>
 
 ---
 
